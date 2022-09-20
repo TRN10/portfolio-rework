@@ -6,9 +6,11 @@ img {
     /* remove extra space below image */
 }
 
+body {}
+
 h1 {
     font-family: prometo, sans-serif;
-    font-size: 80px;
+    font-size: 65px;
 
 }
 
@@ -18,12 +20,15 @@ ul {
 
 
 .container {
+
     border-style: none;
 }
 
 #navbarNav {
     font-size: x-large;
     font-family: prometo, Arial, Helvetica, sans-serif;
+
+
 }
 
 footer {
@@ -43,4 +48,8 @@ a {
 
 h5 {
     font-weight: 100;
+}
+
+.hide {
+    display: none;
 }
