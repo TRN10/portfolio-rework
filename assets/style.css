@@ -19,6 +19,7 @@ ul {
 }
 
 
+
 .container {
 
     border-style: none;
@@ -37,7 +38,6 @@ footer {
     justify-content: space-evenly;
     align-items: center;
     font-family: prometo, sans-serif;
-
     padding: 30px;
 
 }
@@ -53,4 +53,23 @@ h5 {
 
 .hide {
     display: none;
+}
+
+.projects {
+    background-image: "./assets/tj-hero-inverted.png";
+}
+
+
+
+
+#about:hover {
+    color: darkorange;
+}
+
+#projects:hover {
+    color: rgb(34, 202, 76);
+}
+
+#contact:hover {
+    color: rgb(155, 30, 155);
 }
